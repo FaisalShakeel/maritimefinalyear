@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92627996.css",
+    "main.js": "/static/js/main.71a432d6.js",
+    "static/js/453.293af650.chunk.js": "/static/js/453.293af650.chunk.js",
+    "static/media/maritimejobimage.jpg": "/static/media/maritimejobimage.f16585c2df0454eeac3f.jpg",
+    "static/media/maritimeeducationimage.jpg": "/static/media/maritimeeducationimage.ba5283188a72369eb9c1.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.92627996.css.map": "/static/css/main.92627996.css.map",
+    "main.71a432d6.js.map": "/static/js/main.71a432d6.js.map",
+    "453.293af650.chunk.js.map": "/static/js/453.293af650.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92627996.css",
+    "static/js/main.71a432d6.js"
+  ]
+}
